@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Shop Ordering Frontend",
+  "description": "A premium modern coffee ordering application with an interactive drink visualizer, custom cup builder, real-time pricing, shopping cart, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
